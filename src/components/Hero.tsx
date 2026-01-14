@@ -9,9 +9,9 @@ const Hero = () => {
         {/* Text Content */}
         <div className="order-2 lg:order-1 animate-fade-in">
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-serif font-medium leading-tight text-foreground mb-6">
-            Nutrição e{" "}
-            <em className="text-primary not-italic">consciência</em>{" "}
-            alimentar.
+            Nutrição que cuida da{" "}
+            <em className="text-primary not-italic">saúde</em> e valoriza tua{" "}
+            <em className="text-primary not-italic">beleza natural</em>.
           </h1>
           
           <p className="text-lg md:text-xl text-muted-foreground mb-8 leading-relaxed max-w-lg">
