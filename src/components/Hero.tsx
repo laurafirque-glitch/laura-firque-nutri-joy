@@ -34,7 +34,7 @@ const Hero = () => {
           </div>
 
           <p className="text-sm text-muted-foreground">
-            Atendimento em São Paulo
+            Atendimento em Porto Alegre
           </p>
         </div>
 
