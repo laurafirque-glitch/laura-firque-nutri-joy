@@ -10,7 +10,7 @@ const Footer = () => {
               Laura Firque
             </h3>
             <p className="text-sm text-muted-foreground">
-              Nutricionista Clínica • CRN 00000
+              Nutricionista Clínica • CRN 20462
             </p>
           </div>
 
