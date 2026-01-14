@@ -54,7 +54,7 @@ const Plans = () => {
                 className="w-full"
                 asChild
               >
-                <a href="https://wa.me/5500000000000?text=Olá! Gostaria de agendar uma consulta.">
+                <a href="https://wa.me/message/4NEEZ32YPZTTK1">
                   Agendar
                 </a>
               </Button>

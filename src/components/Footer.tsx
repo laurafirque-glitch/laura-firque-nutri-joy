@@ -16,7 +16,7 @@ const Footer = () => {
 
           <div className="flex items-center gap-6">
             <a
-              href="https://instagram.com/laurafirque"
+              href="https://www.instagram.com/laurafirquenutri/"
               target="_blank"
               rel="noopener noreferrer"
               className="w-10 h-10 rounded-full bg-card flex items-center justify-center text-muted-foreground hover:text-primary hover:bg-primary/10 transition-colors"
@@ -32,7 +32,9 @@ const Footer = () => {
               <Mail className="w-5 h-5" />
             </a>
             <a
-              href="https://wa.me/5500000000000"
+              href="https://wa.me/message/4NEEZ32YPZTTK1"
+              target="_blank"
+              rel="noopener noreferrer"
               className="w-10 h-10 rounded-full bg-card flex items-center justify-center text-muted-foreground hover:text-primary hover:bg-primary/10 transition-colors"
               aria-label="WhatsApp"
             >
