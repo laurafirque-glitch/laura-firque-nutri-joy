@@ -19,7 +19,7 @@ const CTA = () => {
             className="bg-background text-foreground hover:bg-background/90"
             asChild
           >
-            <a href="https://wa.me/5500000000000?text=Olá! Gostaria de agendar consulta online com a Laura.">
+            <a href="https://wa.me/message/4NEEZ32YPZTTK1">
               <Monitor className="w-5 h-5" />
               Atendimento Online
             </a>
@@ -30,7 +30,7 @@ const CTA = () => {
             className="border-primary-foreground text-primary-foreground hover:bg-primary-foreground hover:text-primary"
             asChild
           >
-            <a href="https://wa.me/5500000000000?text=Olá! Gostaria de agendar consulta presencial com a Laura.">
+            <a href="https://wa.me/message/4NEEZ32YPZTTK1">
               <MapPin className="w-5 h-5" />
               Atendimento Presencial
             </a>
