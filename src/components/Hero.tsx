@@ -1,6 +1,6 @@
 import { Monitor, MapPin } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import heroImage from "@/assets/hero-nutritionist.jpg";
+import heroImage from "@/assets/laura-firque.jpg";
 
 const Hero = () => {
   return (
