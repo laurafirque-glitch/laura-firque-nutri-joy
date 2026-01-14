@@ -15,7 +15,7 @@ const Hero = () => {
           </h1>
           
           <p className="text-lg md:text-xl text-muted-foreground mb-8 leading-relaxed max-w-lg">
-            Um espaço seguro para cuidar da sua saúde e alcançar o emagrecimento saudável, sem culpa ou julgamentos.
+            Acredito em uma alimentação que respeita tua rotina, tuas preferências e até teus momentos de exceção. Minha motivação é te ajudar a construir esse equilíbrio.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 mb-8">
