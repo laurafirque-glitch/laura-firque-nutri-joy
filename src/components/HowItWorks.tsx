@@ -45,6 +45,16 @@ const HowItWorks = () => {
                 <span>Avaliação física completa (Bioimpedância + Medidas)</span>
               </li>
             </ul>
+
+            <div className="mt-6 pt-6 border-t border-border/50">
+              <p className="text-sm font-medium text-primary mb-1">Medplex Eixo Norte</p>
+              <p className="text-sm text-muted-foreground">Clínica Integrar Espaço Médico</p>
+              <p className="text-sm text-muted-foreground mt-1">
+                Av. Assis Brasil, 2827 - Passo d'Areia
+                <br />
+                Porto Alegre - RS, 91010-004
+              </p>
+            </div>
           </div>
 
           {/* Online */}
