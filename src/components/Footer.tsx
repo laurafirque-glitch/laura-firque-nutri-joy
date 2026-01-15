@@ -1,10 +1,11 @@
-import { Instagram, Mail, Phone } from "lucide-react";
+import { Instagram, Mail, Phone, MapPin } from "lucide-react";
 
 const Footer = () => {
   return (
     <footer className="py-12 px-6 bg-background border-t border-border">
       <div className="container-narrow mx-auto">
-        <div className="flex flex-col md:flex-row items-center justify-between gap-6">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-8 items-start">
+          {/* Info profissional */}
           <div className="text-center md:text-left">
             <h3 className="font-serif text-xl font-semibold text-foreground mb-1">
               Laura Firque
@@ -14,7 +15,22 @@ const Footer = () => {
             </p>
           </div>
 
-          <div className="flex items-center gap-6">
+          {/* Endereço */}
+          <div className="text-center">
+            <div className="flex items-center justify-center gap-2 mb-2">
+              <MapPin className="w-4 h-4 text-primary" />
+              <h4 className="font-medium text-foreground">Atendimento Presencial</h4>
+            </div>
+            <p className="text-sm text-muted-foreground leading-relaxed">
+              Clínica Integrar Espaço Médico<br />
+              Medplex Eixo Norte<br />
+              Av. Assis Brasil, 2827<br />
+              Porto Alegre - RS
+            </p>
+          </div>
+
+          {/* Redes sociais */}
+          <div className="flex items-center justify-center md:justify-end gap-4">
             <a
               href="https://www.instagram.com/laurafirquenutri/"
               target="_blank"
