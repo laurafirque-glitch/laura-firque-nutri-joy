@@ -15,7 +15,7 @@ const Hero = () => {
           </h1>
           
           <p className="text-lg md:text-xl text-muted-foreground mb-8 leading-relaxed max-w-lg">
-            Acredito em uma alimentação que respeita tua rotina, tuas preferências e até teus momentos de exceção. Minha motivação é te ajudar a construir esse equilíbrio.
+            Aqui, saúde vem em primeiro lugar. E a estética é consequência de um cuidado bem feito.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 mb-8">
